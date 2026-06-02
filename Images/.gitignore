@@ -1,0 +1,4 @@
+*.csv
+*.db
+Data/
+SQL/*.db
