@@ -62,26 +62,6 @@ The dashboard supports hospital administrators by helping them:
 | Synthea      | Synthetic Electronic Health Record (EHR) generation          |
 
 
-## Project Structure
-
-MRP/
-│
-├── Images/
-│   ├── MRP (Power BI) - 1.png
-│   ├── MRP (Power BI) - 2.png
-│   └── MRP (Power BI) - 3.png
-│
-├── Power_BI/
-│   └── MRP.pbix
-│
-├── SQL/
-│   ├── SQLite -1.sql
-│   └── SQLite -2.sql
-│
-├── README.md
-└── .gitignore
-
-
 ## Data Source
 
 This project uses synthetic Electronic Health Records (EHRs) generated using the Synthea healthcare simulation platform.
@@ -230,7 +210,7 @@ This uncertainty range enables administrators to create contingency plans and al
 
 ### Resource Allocation Dashboard
 
-![Resource Allocation Dashboard](Images/resource-allocation-dashboard.png.png)
+![Resource Allocation Dashboard](Images/resource-allocation-dashboard.png)
 
 ### Severity Analysis Dashboard
 
